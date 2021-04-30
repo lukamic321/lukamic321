@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @lukamic321
+- 📱  My Discord handle is: 
+- 👀 I’m interested in: JavaScript, HTML and CSS, and maybe learning PHP (but it scares me a little)
+- 🌱 I’m currently learning JavaScript, just for fun though. No real job aspriations.
+- 💞️ I’m not currently looking to collaborate. As you can tell from the update logs on my own projects, I have very little spare time, and in that spare time I love procrastinating. I should probably work on that before collaborating on anything.
+- 📫 How to reach me:
+- Email: lukamic321@gmail.com
+- Discord: lukamic#6139
