@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lukamic321" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="lukamic321" height="30" width="40" /></a>
-<a href="https://dribbble.com/lukamic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="lukamic" height="30" width="40" /></a>
+<a href="https://dribbble.com/lukamic" target="blank"><img align="center" src="https://cdn.dribbble.com/assets/dribbble-vector-ball-f320a6ba48a4ccf416ef6e396e204c899874565b694593834b6c23f978394498.svg" alt="lukamic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
