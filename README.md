@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/lukamic321" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="lukamic321" height="30" width="40" /></a>
 <a href="https://dribbble.com/lukamic" target="blank"><img align="center" src="https://cdn.dribbble.com/assets/dribbble-ball-icon-4e54c54abecf8efe027abe6f8bc7794553b8abef3bdb49cd15797067cf80ca53.svg" alt="lukamic" height="30" width="40" /></a>
-</p>
 <a href="https://discord.gg/Pm84bqv" target="blank"><img align="center" src="https://discord.com/assets/1c8a54f25d101bdc607cec7228247a9a.svg" alt="lukamic" height="30" width="40" /></a>
 </p>
 
